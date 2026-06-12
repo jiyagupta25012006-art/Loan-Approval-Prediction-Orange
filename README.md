@@ -104,14 +104,12 @@ Performance is measured using:
 
 ## Orange Workflow
 
-<img src="./screenshots/loan-approval-workflow.png" width="1000"/>
 <img width="947" height="505" alt="Screenshot 2026-06-10 140818" src="https://github.com/user-attachments/assets/b033d351-d608-4a4a-9df1-654507e9129f" />
 
 ---
 
 ## Logistic Regression Evaluation
 
-<img src="./screenshots/logistic-regression-performance.png" width="1000"/>
 <img width="959" height="506" alt="Screenshot 2026-06-10 141543" src="https://github.com/user-attachments/assets/08ad9d33-54ee-4246-9852-1d41321f466d" />
 
 ---
